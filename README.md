@@ -7,4 +7,3 @@ To use simple follow these steps:
 4. put the px script into source.js 
 5. npm start
 6. check deobfuscated_source.js for deobfuscated version of the source. 
-7. 
