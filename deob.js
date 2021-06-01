@@ -3,7 +3,6 @@ const escodegen = require('escodegen');
 const fs = require('fs');
 const { deob_string } = require('./deob_string.js');
 var source;
-var array = [];
 
 function CallExpression(node){
 
