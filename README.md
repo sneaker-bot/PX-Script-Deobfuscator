@@ -6,5 +6,5 @@ To use simple follow these steps:
 3. npm install 
 4. put the px script into source.js 
 5. npm start
-6. look at the deobfuscated_source.js for deobfuscated version of the source. 
+6. check deobfuscated_source.js for deobfuscated version of the source. 
 7. 
