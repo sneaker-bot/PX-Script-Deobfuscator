@@ -1,0 +1,15 @@
+{
+  "name": "px-deobfuscator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deob.js",
+  "scripts": {
+    "start": "node deob"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "escodegen": "^2.0.0",
+    "esprima": "^4.0.1"
+  }
+}
